@@ -23,7 +23,5 @@ Droit des salarié·es
 Droit de Grève
 ===============
 
-- [Le droit de grève (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/fiche-n-7-le-droit-de-greve/)
-- [La grève, c'est cool (-;](https://greve.cool/)
-- [Est-ce que c'est la grève ?](https://nitter.fdn.fr/cestlagreve)
-- …
+- [Le droit de grève (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/fiche-n50-le-droit-de-greve/)
+

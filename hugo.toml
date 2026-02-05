@@ -8,7 +8,7 @@ pygmentsCodeFences = true
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 theme = "beautifulhugo"
-title = "Hugolidaires, un modèle de site"
+title = "Arpège - Solidaires Informatique"
 
 
 [params]
@@ -16,7 +16,7 @@ comments = false
 commit = true
 dateFormat = "02/01/2006"
 delayDisqus = false
-description = "Un modèle de site Solidaires basé sur Hugo"
+description = "Arpège - Solidaires Informatique"
 disableMath = true
 favicon = "img/logo_solidaires_carre.svg"
 mainSections = ["posts"]
@@ -27,7 +27,7 @@ selfHosted = true
 showRelatedPosts = false
 SidebarRecentLimit = 5
 socialShare = false
-subtitle = "Modèle de site Solidaires (basé sur Hugo)"
+subtitle = ""
 useHLJS = false
 wordCount = false
 
@@ -41,8 +41,6 @@ wordCount = false
   [privacy.googleAnalytics]
     disable = true
   [privacy.instagram]
-    disable = true
-  [privacy.twitter]
     disable = true
   [privacy.vimeo]
     disable = true
@@ -58,16 +56,6 @@ weight = 1
 name = "Vos droits"
 weight = 3
 url = "page/vos_droits"
-
-[[menu.main]]
-name = "Notre Programme"
-weight = 5
-url = "page/programme"
-
-[[menu.main]]
-name = "F.A.Q."
-weight = 7
-url = "page/faq"
 
 [[menu.main]]
 name = "Contact"
