@@ -17,4 +17,4 @@ Pour adhérer ?
 
 Inscription à la Newsletter
 ====================
-Inscrit toi à la newsletter pour être tenu informé de notre action
+Inscris-toi à notre newsletter pour être tenu informé de notre action
