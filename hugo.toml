@@ -30,7 +30,7 @@ socialShare = false
 subtitle = ""
 useHLJS = false
 wordCount = false
-custom_css = ["css/fonts.css"]
+custom_css = ["css/main.css"]
 
 
 
