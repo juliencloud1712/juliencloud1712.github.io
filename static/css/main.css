@@ -100,9 +100,8 @@ body {
   }
   
   .main-content {
-  padding-top: 130px; /* Augmenté pour pousser le contenu rose vers le bas */
-}
-
+    padding-top: 80px;
+  }
   @media only screen and (min-width: 768px) {
     .main-content {
       padding-top: 130px;
@@ -194,14 +193,9 @@ body {
   }
 
   .navbar-custom .navbar-brand {
-  font-size: 24px;
-  font-family: 'Scotchlidaires';
-  display: inline-block;
-  padding-top: 15px;    /* Donne de l'espace en haut pour que le texte respire */
-  padding-bottom: 15px; /* Donne de l'espace en bas */
-  line-height: 1.2;     /* Évite que les lettres hautes soient coupées */
-}
-
+    font-size: 24px;
+    font-family: 'Scotchlidaires';
+  }
   
   .navbar-custom .navbar-brand,
   .navbar-custom .nav li a {
