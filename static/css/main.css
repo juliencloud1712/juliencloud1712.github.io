@@ -193,9 +193,14 @@ body {
   }
 
   .navbar-custom .navbar-brand {
-    font-size: 24px;
-    font-family: 'Scotchlidaires';
-  }
+  font-size: 24px;
+  font-family: 'Scotchlidaires';
+  display: inline-block;
+  padding-top: 15px;    /* Donne de l'espace en haut pour que le texte respire */
+  padding-bottom: 15px; /* Donne de l'espace en bas */
+  line-height: 1.2;     /* Évite que les lettres hautes soient coupées */
+}
+
   
   .navbar-custom .navbar-brand,
   .navbar-custom .nav li a {
@@ -626,7 +631,6 @@ body {
   .intro-header {
     margin: 90px 0 20px;
     position: relative;
-    padding: 100px 0;
   }
   .intro-header.big-img {
     background: no-repeat center center;
