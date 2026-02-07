@@ -23,14 +23,13 @@ mainSections = ["posts"]
 menu_item_separator = " · "
 readingTime = false
 rss = true
-selfHosted = false
+selfHosted = true
 showRelatedPosts = false
 SidebarRecentLimit = 5
 socialShare = false
 subtitle = ""
 useHLJS = false
 wordCount = false
-custom_css = ["css/main.css"]
 
 
 
