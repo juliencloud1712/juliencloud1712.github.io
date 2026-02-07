@@ -975,6 +975,29 @@ body {
     transform: scale(1.4)
   }
   
+/* --- Correctif forcé --- */
+
+/* On pousse tout le contenu vers le bas sur mobile */
+.main-content {
+    padding-top: 180px !important; 
+}
+
+/* On réajuste pour les grands écrans (ordinateurs) */
+@media only screen and (min-width: 768px) {
+    .main-content {
+        padding-top: 150px !important;
+    }
+}
+
+/* On empêche le texte jaune de déborder de son bandeau rose */
+.navbar-custom .navbar-brand {
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+    height: auto !important;
+    display: inline-block !important;
+}
+
+
   /* Dark mode
   @media (prefers-color-scheme: dark) {
     code {
