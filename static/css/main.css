@@ -188,6 +188,14 @@ body {
   }
 }
 
+@media (max-width: 768px) {
+  .navbar-custom .navbar-brand {
+    font-size: 100%;
+    text-align: left;
+    margin-left: 4%;
+    }
+}
+
   /* @media (prefers-color-scheme: dark) {
     .navbar-custom {
       background: #505050;
