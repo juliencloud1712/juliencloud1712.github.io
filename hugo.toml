@@ -23,15 +23,14 @@ mainSections = ["posts"]
 menu_item_separator = " · "
 readingTime = false
 rss = true
-selfHosted = true
+selfHosted = false
 showRelatedPosts = false
 SidebarRecentLimit = 5
 socialShare = false
 subtitle = ""
 useHLJS = false
 wordCount = false
-canonifyURLs = true
-relativeURLs = false
+
 
 
   [params.author]
