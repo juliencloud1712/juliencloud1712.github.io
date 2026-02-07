@@ -6,5 +6,5 @@ draft: false
 
 Test d'un post avec image
 
-![image du logo de solidaires informatique](Arpege-solidaires-informatique/img/solidaires-informatique-logo.png)
+![image du logo de solidaires informatique](https://juliencloud1712.github.io/Arpege-solidaires-informatique/img/solidaires-informatique-logo.png)
 
