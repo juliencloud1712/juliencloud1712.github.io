@@ -8,5 +8,5 @@ Nous avons déclaré la section Solidaire Informatique auprès de la direction d
 
 🤙 Si vous êtes salarié.e d'Arpège et que vous voulez plus d'informations, que vous avez besoin d'être accompagné dans une problématique ou bien si vous souhaitez nous rejoindre, n’hésitez pas à [nous contacter](/page/contact/).
 
-![logo de solidaires informatique](/img/solidaires-informatique-logo.png)
+![image du logo de solidaires informatique](/static/img/solidaires-informatique-logo.png)
 
