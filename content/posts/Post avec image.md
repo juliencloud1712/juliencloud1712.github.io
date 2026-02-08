@@ -8,3 +8,7 @@ Test d'un post avec image
 
 ![image du logo de solidaires informatique](/img/solidaires-informatique-logo.png)
 
+test
+
+
+
