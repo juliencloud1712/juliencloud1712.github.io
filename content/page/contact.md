@@ -17,4 +17,4 @@ Pour adhérer ?
 
 Inscription à la Newsletter
 ====================
-[Inscris-toi à notre newsletter](https://listes.solidairesinformatique.org/sympa/subscribe/sympatisants-arpege@listes.solidairesinformatique.org)  pour être tenu informé de nos actions
+[Inscris-toi à notre newsletter](https://listes.solidairesinformatique.org/sympa/subscribe/sympatisants-arpege)  pour être tenu informé de nos actions
