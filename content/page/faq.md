@@ -1,6 +1,6 @@
 ---
 title: "Foire au questions"
-draft: true
+draft: false
 ---
 
 Nous sommes des salarié⋅es d'Arpège, souhaitant nous regrouper pour mieux être représenté.
