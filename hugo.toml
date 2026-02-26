@@ -1,6 +1,5 @@
 baseURL = "https://juliencloud1712.github.io/"
-canonifyURLs = true
-relativeURLs = false
+relativeURLs = true
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
