@@ -1,5 +1,4 @@
 baseURL = "https://juliencloud1712.github.io/"
-relativeURLs = true
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
@@ -32,7 +31,7 @@ subtitle = ""
 useHLJS = false
 wordCount = false
 canonifyURLs = false
-relativeURLs = true
+relativeURLs = false
 
 
 
