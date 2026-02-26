@@ -64,14 +64,15 @@ weight = 2
 url = "page/vos_droits"
 
 [[menu.main]]
-name = "Contact"
+name = "FAQ"
 weight = 3
-url = "page/contact"
+url = "page/faq"
 
 [[menu.main]]
-name = "FAQ"
+name = "Contact"
 weight = 4
-url = "page/faq"
+url = "page/contact"
+
 
 
 
