@@ -11,7 +11,7 @@ Nous sommes une section du syndicat Solidaires informatiques membre de l'[Union 
 
 1. [Pourquoi se syndiquer ?](#foo)
 2. [Pourquoi Solidaires Informatique ?](#bar)
-3. [Nos Valeurs ?](#foobar)
+3. [Nos Valeurs](#foobar)
 
 ---
 
