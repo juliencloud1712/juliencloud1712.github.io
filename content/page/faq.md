@@ -26,5 +26,5 @@ Nous sommes une section du syndicat Solidaires informatiques membre de l'[Union 
     * Nous sommes un syndicat indépendant qui défends nos acquis sociaux, mais aussi s'engage à réfléchir à de nouvelles façons de penser le travail. Nous nous battons pour l’égalité femmes/hommes, contre le racisme et toutes autres formes de discriminations.
 
 4. # Est ce que mon engagement syndical sera public ? {#confidentialite}
-    * La liste des personnes syndiquées chez Solidaires Informatique est totalement confidentielle. De la même façon personne ne pourra voir si vous êtes sympathisants.
+    * Seulement si vous le voulez ! L’appartenance à un syndicat est complètement confidentielle, la direction n’a aucun droit à consulter la base des adhérent.es. Nous faisons également très attention à ne pas exposer de salarié.es vulnérables, syndiqué.es ou non, ainsi qu’à ne pas agir sans leur consentement si cela devait les impacter. De la même façon personne ne pourra voir si vous êtes sympathisants et que vous vous êtes abonné.es à notre newsletter.
 
