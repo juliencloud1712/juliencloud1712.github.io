@@ -12,6 +12,7 @@ Nous sommes une section du syndicat Solidaires informatiques membre de l'[Union 
 1. [Pourquoi se syndiquer ?](#foo)
 2. [Pourquoi Solidaires Informatique ?](#bar)
 3. [Nos Valeurs](#foobar)
+4. [Est ce que mon engagement syndical sera public ?](#confidentialite)
 
 ---
 
@@ -22,5 +23,8 @@ Nous sommes une section du syndicat Solidaires informatiques membre de l'[Union 
     * Rejoindre Solidaires Informatique, c’est la possibilité d’apprendre à s’organiser, c’est la possibilité de discuter, de réfléchir collectivement, de rassembler les énergies. Rappelons que Solidaires est indépendant de tout parti politique. Solidaires Informatique développe son action en fonction des seuls intérêts des salariés. Pour nous, faire du syndicalisme est un choix non un plan de carrière, ni une profession. A ce titre, nous refusons de bénéficier d’avantages particuliers liés à notre activité syndicale.
 
 3. # Nos Valeurs {#foobar}
-    * Nous sommes un syndicat indépendant qui défends nos acquis sociaux, mais aussi s'engage à réfléchir à de nouvelles façons de penser le travail. Nous nous battons pour l’égalité femmes/hommes, contre le racisme et contre l’extrême-droite.
+    * Nous sommes un syndicat indépendant qui défends nos acquis sociaux, mais aussi s'engage à réfléchir à de nouvelles façons de penser le travail. Nous nous battons pour l’égalité femmes/hommes, contre le racisme et toutes autres formes de discriminations.
+
+4. # Est ce que mon engagement syndical sera public ? {#confidentialite}
+    * La liste des personnes syndiquées chez Solidaires Informatique est totalement confidentielle. De la même façon personne ne pourra voir si vous êtes sympathisants.
 
