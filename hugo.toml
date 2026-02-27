@@ -31,7 +31,7 @@ subtitle = ""
 useHLJS = false
 wordCount = false
 canonifyURLs = false
-relativeURLs = false
+relativeURLs = true
 
 
 
