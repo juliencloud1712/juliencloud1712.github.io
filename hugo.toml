@@ -73,6 +73,11 @@ name = "Contact"
 weight = 4
 url = "page/contact"
 
+[[menu.main]]
+name = "Adhérer"
+weight = 5
+url = "https://adhesion.solidairesinformatique.org"
+
 
 
 
