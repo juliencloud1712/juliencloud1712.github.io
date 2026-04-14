@@ -77,8 +77,6 @@ url = "page/contact"
 name = "Adhérer"
 weight = 5
 url = "https://adhesion.solidairesinformatique.org"
-target: "_blank"
-rel: "noopener noreferrer"
 
 
 
