@@ -13,9 +13,10 @@ En personne
 
 Inscription à la Newsletter
 ====================
-[Inscris-toi à notre newsletter](https://listes.solidairesinformatique.org/sympa/subscribe/sympatisants-arpege)  pour être tenu informé de nos actions. 
+[Inscris-toi à notre newsletter](https://listes.solidairesinformatique.org/sympa/subscribe/sympatisants-arpege)  pour être tenu informé de nos actions. Attention a bien valider l'inscription dans le mail reçu (pense à regarder tes spams).
 
 Veille à bien utiliser une adresse mail personnelle et non une adresse arpege.
+
 
 Pour adhérer ?
 ====================

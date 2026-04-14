@@ -1,4 +1,4 @@
-baseURL = "https://juliencloud1712.github.io/"
+baseURL = "https://arpege.solidairesinformatique.org/"
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
@@ -31,7 +31,7 @@ subtitle = ""
 useHLJS = false
 wordCount = false
 canonifyURLs = false
-relativeURLs = false
+relativeURLs = true
 
 
 
