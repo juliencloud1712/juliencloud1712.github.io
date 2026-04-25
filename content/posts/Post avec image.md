@@ -22,7 +22,7 @@ Si vous souhaitez vous engager à nos côtés ou simplement en savoir plus, n’
 
 Ensemble, faisons du CSE un véritable levier pour les salarié·es !
 
-![image du flyer Deviens candidat·e aux élections CSE](mon-site/static/img/affiche électionA4.png)
+![image du flyer Deviens candidat·e aux élections CSE](/img/affiche_electionA4.png)
 
 
 
