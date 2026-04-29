@@ -1,6 +1,6 @@
 ---
 title: "Deviens candidat·e aux élections CSE"
-date: 2026-04-29
+date: 2026-04-28
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Pour défendre vos droits et ceux de vos collègues
 Pour être acteur·rice des décisions qui impactent votre quotidien
 Pour faire vivre un dialogue social utile et constructif
 
-Date limite pour candidater : 10 mai 2026
+Date limite pour candidater : 18 mai 2026
 
 Si vous souhaitez vous engager à nos côtés ou simplement en savoir plus, n’hésitez pas à nous contacter dès maintenant.
 
