@@ -18,3 +18,4 @@ Les élections du CSE approchent : c’est le moment de vous engager ! Être él
 
 Date limite pour candidater : 18 mai 2026. Contactez-nous pour en savoir plus et rejoignez-nous !
 
+![image du flyer Deviens candidat·e aux élections CSE](/img/affiche_electionA4.png)
