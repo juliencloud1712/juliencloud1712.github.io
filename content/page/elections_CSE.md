@@ -14,8 +14,8 @@ Abonne toi à la newsletter pour recevoir toutes les infos en priorité : [Inscr
 Devenir Candidat·e
 ====================
 
-Les élections du CSE approchent : c’est le moment de vous engager ! Être élu·e, c’est représenter vos collègues, défendre leurs droits et améliorer concrètement les conditions de travail. Pas besoin d’être expert·e, vous serez accompagné·e. 
+Les élections du CSE approchent : c’est le moment de s'engager ! Être élu·e, c’est représenter ses collègues, défendre leurs droits et améliorer concrètement les conditions de travail. Pas besoin d’être expert·e, tu seras accompagné·e. 
 
-Date limite pour candidater : 18 mai 2026. Contactez-nous pour en savoir plus et rejoignez-nous !
+Date limite pour candidater : 18 mai 2026. Contacte-nous pour en savoir plus et rejoins-nous !
 
 ![image du flyer Deviens candidat·e aux élections CSE](/img/affiche_electionA4.png)
