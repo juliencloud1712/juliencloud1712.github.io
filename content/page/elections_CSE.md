@@ -97,7 +97,7 @@ Nos candidates et candidats
 * Muriel PERAUCHON
 * Amélie DE LA BROISE
 
-[TELECHARGEZ LA PROFESSION DE FOI](https://arpege.solidairesinformatique.org/page/elections_cse/static/Documents/Profession-de-foi-1erTour.pdf)
+[TELECHARGEZ LA PROFESSION DE FOI](https://arpege.solidairesinformatique.org/Documents/Profession-de-foi-1erTour.pdf)
 
 
 
