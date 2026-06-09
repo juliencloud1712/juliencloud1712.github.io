@@ -1,6 +1,6 @@
 ---
 title: "Elections CSE"
-draft: false
+draft: true
 ---
 
 Représenter les salariés signifie avant tout être à leur écoute et agir avec elles et eux, jamais à leur place. Nous refusons l'entre-soi et souhaitons construire un dialogue permanent avec l'ensemble des salariés afin que chacun et chacune puisse être entendue et participer aux réflexions qui concernent son quotidien professionnel. Notre ambition est simple : faire de vos préoccupations notre priorité et les traduire en actions concrètes, utiles et transparentes au service de toutes et tous.
@@ -97,7 +97,7 @@ Nos candidates et candidats
 * Muriel PERAUCHON
 * Amélie DE LA BROISE
 
-[TELECHARGEZ LA PROFESSION DE FOI](static/Documents/Profession-de-foi-1erTour.pdf)
+[TELECHARGEZ LA PROFESSION DE FOI](https://arpege.solidairesinformatique.org/page/elections_cse/static/Documents/Profession-de-foi-1erTour.pdf)
 
 
 
