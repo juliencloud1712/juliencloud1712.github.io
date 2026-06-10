@@ -1,6 +1,6 @@
 ---
 title: "Découvrez notre projet pour les élections CSE"
-date: 2026-06-11T00:00:00
+date: 2026-06-11T00:01:00
 draft: false
 ---
 
