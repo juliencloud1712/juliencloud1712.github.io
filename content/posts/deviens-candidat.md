@@ -1,7 +1,7 @@
 ---
 title: "Deviens candidat·e aux élections CSE"
 date: 2026-04-28
-draft: false
+draft: true
 ---
 
 Deviens candidat·e aux élections CSE
