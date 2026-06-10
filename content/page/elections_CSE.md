@@ -76,6 +76,11 @@ Nous proposons :
 
 ---
 
+Des questions ? 
+====================
+La réponse est très certainement [Ici](/page/faq/)
+
+---
 
 Nos candidates et candidats
 ====================
@@ -97,7 +102,18 @@ Nos candidates et candidats
 * Muriel PERAUCHON
 * Amélie DE LA BROISE
 
-[TELECHARGEZ LA PROFESSION DE FOI](https://arpege.solidairesinformatique.org/Documents/Profession-de-foi-1erTour.pdf)
+---
 
+<p>
+    <a href="https://arpege.solidairesinformatique.org/Documents/Profession-de-foi-1erTour.pdf" target="_blank" rel="noopener noreferrer">
+        TELECHARGEZ LA PROFESSION DE FOI
+    </a>
+</p>
+
+---
+
+Réunion d'information le jeudi 18 juin de 12h à 12h30 en visio !
+====================
+Vous recevrez une invitation teams prochainement.
 
 

@@ -20,8 +20,3 @@ Droit des salarié·es
 - [Fiches « connaître ses droits » (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/)
 
 
-Droit de Grève
-===============
-
-- [Le droit de grève (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/fiche-n50-le-droit-de-greve/)
-

@@ -64,14 +64,15 @@ url = "page/elections_cse"
 weight = 2
 
 [[menu.main]]
-name = "Vos droits"
+name = "FAQ"
 weight = 3
-url = "page/vos_droits"
+url = "page/faq"
 
 [[menu.main]]
-name = "FAQ"
+name = "Vos droits"
 weight = 4
-url = "page/faq"
+url = "page/vos_droits"
+
 
 [[menu.main]]
 name = "Contact"
