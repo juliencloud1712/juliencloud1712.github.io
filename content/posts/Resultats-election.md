@@ -6,7 +6,7 @@ draft: false
 
 Vous avez désormais pu consulter les résultats des élections sur l’intranet.
 
-Première bonne nouvelle : la participation a été historique chez Arpège. Vous avez été 81,82 % à voter, un chiffre remarquable qui démontre une mobilisation forte des salarié·es. C’est un signal puissant pour les futures négociations.
+Première bonne nouvelle : la participation a été historique chez Arpège. Vous avez été 81,82% à voter, un chiffre remarquable qui démontre une mobilisation forte des salarié·es. C’est un signal puissant pour les futures négociations.
 
 Deuxième bonne nouvelle : les syndicats font enfin leur entrée chez Arpège.
 Lorsque l’idée de créer une section syndicale a émergé, nous ne nous attendions pas à un tel engouement. Cet élan confirme une réalité : le besoin d’être représenté·es et défendu·es autrement est bien présent au sein de l’entreprise.
