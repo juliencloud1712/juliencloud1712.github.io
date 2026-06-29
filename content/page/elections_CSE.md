@@ -8,6 +8,26 @@ C'est dans ce sens que nous avons construit un projet pour les 4 années à veni
 
 ---
 
+Vos représentantes et représentants
+====================
+
+## Titulaires :
+* Julien DELAFOY
+* Charlène MANGEARD
+* Ornella JOSSO
+* Coline VRIGNON
+* Nicolas RONVEL
+
+
+## Suppléant·es :
+* Klervy LE DEZ
+* Victor TESSIER
+* Etienne ANJOS
+* Benoît GOHIER
+* Muriel PERAUCHON
+
+---
+
 NOS AMBITIONS POUR L’AVENIR D’ARPEGE 
 ====================
 
@@ -75,25 +95,7 @@ Nous proposons :
 * Un dialogue avec la direction ferme mais constructif afin de faire avancer l’entreprise dans le sens des salariés.
 
 
----
 
-Vos représentantes et représentants
-====================
-
-## Titulaires :
-* Julien DELAFOY
-* Charlène MANGEARD
-* Ornella JOSSO
-* Coline VRIGNON
-* Nicolas RONVEL
-
-
-## Suppléant·es :
-* Klervy LE DEZ
-* Victor TESSIER
-* Etienne ANJOS
-* Benoît GOHIER
-* Muriel PERAUCHON
 
 
 
