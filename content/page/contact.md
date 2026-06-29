@@ -9,7 +9,7 @@ Par mail
 
 En personne
 ====================
-👤 Représentant de la section syndicale (RSS) : Julien DELAFOY
+👤 Délégué Syndical (DS) : Julien DELAFOY
 
 Inscription à la Newsletter
 ====================
