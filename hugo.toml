@@ -59,7 +59,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Elections CSE"
+name = "Notre Projet"
 url = "page/elections_cse"
 weight = 2
 

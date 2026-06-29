@@ -1,5 +1,5 @@
 ---
-title: "Elections CSE"
+title: "Notre Projet"
 draft: true
 ---
 
@@ -74,46 +74,27 @@ Nous proposons :
 * Des sondages réguliers afin de prendre le pouls des salariés.
 * Un dialogue avec la direction ferme mais constructif afin de faire avancer l’entreprise dans le sens des salariés.
 
----
-
-Des questions ? 
-====================
-La réponse est très certainement [Ici](/page/faq/)
 
 ---
 
-Nos candidates et candidats
+Vos représentantes et représentants
 ====================
 
-## Collège ETAM :
+## Titulaires :
 * Julien DELAFOY
 * Charlène MANGEARD
-* Eric PROVOT
 * Ornella JOSSO
-* Emeline CHAUVIN
-* Klervy LE DEZ (Suppléante)
-* Victor TESSIER (Suppléant)
-* Etienne ANJOS (Suppléant)
-
-## Collège Cadres :
 * Coline VRIGNON
 * Nicolas RONVEL
+
+
+## Suppléant·es :
+* Klervy LE DEZ
+* Victor TESSIER
+* Etienne ANJOS
 * Benoît GOHIER
 * Muriel PERAUCHON
-* Amélie DE LA BROISE
 
----
 
-<p>
-    <a href="https://arpege.solidairesinformatique.org/Documents/Profession-de-foi-1erTour.pdf" target="_blank" rel="noopener noreferrer">
-        TELECHARGEZ LA PROFESSION DE FOI
-    </a>
-</p>
-
----
-
-Réunion d'information le jeudi 18 juin de 12h à 12h30 en visio !
-====================
-Vous recevrez une invitation teams prochainement.
 
 
