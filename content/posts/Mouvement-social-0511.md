@@ -4,8 +4,6 @@ date: 2026-10-25
 draft: false
 ---
 
-## Pourquoi on fait grève
-
 Les prix montent, les salaires et retraites stagnent, les services publics s'effondrent, les plans de licenciements s'enchaînent et le budget 2027 gèle les prestations sociales et le point d'indice. Et c'est toujours les mêmes à qui on demande des efforts.
 
 Après la grève de la fonction publique du 29 septembre, **l'intersyndicale (CFDT, CGT, FO, Unsa et FSU) appelle l'ensemble des salarié·es du public comme du privé, les jeunes et les retraité·es à faire grève et manifester le jeudi 5 novembre.** Elles soutiennent aussi le droit des lycéen·nes et des étudiant·es à se mobiliser, à manifester et à se réunir.
