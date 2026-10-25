@@ -17,6 +17,6 @@ L'union s'est dotée d'un organisme de formation syndical, le CEFI. Au titre du 
 Droit des salarié·es
 ====================
 
-- [Fiches « connaître ses droits » (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/)
+- [Fiches « connaître ses droits » (Solidaires)](https://interne.solidaires.org/connaitre-ses-droits/fiche-droits/)
 
 
