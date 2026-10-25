@@ -38,7 +38,7 @@ relativeURLs = true
 
 
   [params.author]
-    name = "Julien"
+    name = ""
 
 
 [privacy]
