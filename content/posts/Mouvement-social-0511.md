@@ -4,8 +4,6 @@ date: 2026-10-25
 draft: false
 ---
 
-# Grève du jeudi 5 novembre : on y va, voici comment faire
-
 ## Pourquoi on fait grève
 
 Les prix montent, les salaires et retraites stagnent, les services publics s'effondrent, les plans de licenciements s'enchaînent et le budget 2027 gèle les prestations sociales et le point d'indice. Et c'est toujours les mêmes à qui on demande des efforts.
