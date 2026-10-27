@@ -10,7 +10,7 @@ Plusieurs salarié·es nous ont interrogé·es suite à l'ajout du dispositif «
 
 Cette disposition n'est pas nouvelle. Elle est prévue par le Code du travail depuis la loi du 8 août 2016 et figure à l'article [L3141-8 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020798).
 
-## Quels sont vos droits ?
+### Quels sont vos droits ?
 
 Vous pouvez bénéficier de 2 jours de congés payés supplémentaires par enfant à charge si les conditions suivantes sont remplies :
 
