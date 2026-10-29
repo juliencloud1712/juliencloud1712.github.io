@@ -145,6 +145,10 @@ Pas besoin d'être syndiqué·e pour faire grève, mais l'être permet d'être i
 
 Une question, un doute sur ta situation ? **Écris-nous, on répond, syndiqué·e ou non** : arpege@solidairesinformatique.org
 
+Solidaires Informatique organise deux webinars pour vous apporter de l'information, n'hésitez pas à y participer !
+
+![image du flyer webinars infos grèves](/img/webinars-info-greves.png)
+
 ***
 
 *Sources :*
