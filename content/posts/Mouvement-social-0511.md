@@ -1,6 +1,6 @@
 ---
 title: "Grève du jeudi 5 novembre = on y va, voici comment faire"
-date: 2026-10-25
+date: 2026-11-02
 draft: false
 ---
 
@@ -56,6 +56,15 @@ Leurs organisations (Union étudiante, Union syndicale lycéenne, soutenues par 
 📄 - [L'étudiant, Les 10 mesures d'urgence, détaillées](https://www.letudiant.fr/lycee/mobilisation-lyceenne-la-jeunesse-propose-10-mesures-d-urgence.html)
 
 📄 - [Amnesty International, « Mouvement lycéen : point sur la situation »](https://www.amnesty.fr/actualites/france-mouvement-lyceens-blocus-lycees-point-sur-la-situation/)
+
+
+---
+
+### Nos revendications internes à Arpège
+
+La prise en compte systématique de l’inflation dans toutes les augmentations salariales, qu’elles soient individuelles ou collectives afin d'empêcher la perte de pouvoir d'achat dû à l'augmentation des prix.
+
+Le versement immédiat d’une prime exceptionnelle d’urgence à l’ensemble des salarié·es, pour faire face à l’augmentation du prix des carburants, de l’énergie, de l’alimentation et, plus largement, du coût de la vie.
 
 
 ***
