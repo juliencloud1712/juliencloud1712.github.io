@@ -60,13 +60,6 @@ Leurs organisations (Union étudiante, Union syndicale lycéenne, soutenues par 
 
 ---
 
-### Nos revendications internes à Arpège
-
-La prise en compte systématique de l’inflation dans toutes les augmentations salariales, qu’elles soient individuelles ou collectives afin d'empêcher la perte de pouvoir d'achat dû à l'augmentation des prix.
-
-Le versement immédiat d’une prime exceptionnelle d’urgence à l’ensemble des salarié·es, pour faire face à l’augmentation du prix des carburants, de l’énergie, de l’alimentation et, plus largement, du coût de la vie.
-
-
 ***
 
 ## Questions / réponses : faire grève chez Arpège
