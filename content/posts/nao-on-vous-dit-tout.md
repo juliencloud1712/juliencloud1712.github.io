@@ -4,4 +4,4 @@ date: 2026-11-24
 draft: false
 ---
 
-![Tract du 24/11/2026](Documents/Tract-Nao-V5.pdf)
+![image du tract du 24/11/2026](/img/Tract-Nao-V5.jpeg)
